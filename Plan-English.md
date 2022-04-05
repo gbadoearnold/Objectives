@@ -1,0 +1,1 @@
+There are two main requirements: People would like to give presentations, and people would like to assist in organizing the conference. It would be fantastic for people in West Africa to be involved in both components. 
