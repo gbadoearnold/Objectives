@@ -27,5 +27,5 @@ Les présentations peuvent être présentées en direct ou préenregistrées.
 
 ## Quels systèmes utilisons-nous?
 
-* Actuellement, le plan organisationnel est que les discussions seront présentées lors d’un webinaire zoom. 
+* Actuellement, le plan organisationnel est que les discussions seront présentées lors d’un webinaire Zoom. 
 * Les présentations peuvent être enregistrées avant la conférence à l’aide de l’OBS Studio
