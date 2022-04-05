@@ -24,6 +24,10 @@ Ce serait fantastique pour les gens en Afrique de l’Ouest d’être impliqués
 Un conférencier donnera soit une présentation de 20 minutes de 40 minutes sur la façon dont ils utilisent R dans leur travail.  
 Les présentations peuvent être présentées en direct ou préenregistrées.
 
+## Diversité
+
+La conférence accueille des participants de diverses communautés. 
+Si vous connaissez des « R-Ladies » qui aimeraient participer, ce serait génial.
 
 ## Quels systèmes utilisons-nous?
 
