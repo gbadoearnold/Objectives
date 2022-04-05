@@ -2,7 +2,7 @@ Saturdays-Remote 2022
 =================================
 
 
-Est-ce que quelqu’un dans mon réseau serait intéressé à présenter une conférence R en langue français en juin? Les conférenciers d’Afrique francophone sont fortement encouragés à faire des présentations?
+Est-ce que quelqu’un dans mon réseau serait intéressé à présenter une conférence R en langue française en juin? Les conférenciers d’Afrique francophone sont fortement encouragés à faire des présentations.
 
 L’objectif est de créer une conférence de 20 minutes sur un projet qui utilise du code R. La présentation sera présentée virtuellement et pourra être enregistrée à l’avance.
 
