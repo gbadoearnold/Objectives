@@ -9,7 +9,7 @@ L’objectif est de créer une conférence de 20 minutes sur un projet qui utili
 
 Des bénévoles sont recherchés pour aider à organiser l’événement
 
-### Date
+### Quelle est la date?
 
 L’événement devrait être un événement en ligne le samedi 4 juin. 
 
