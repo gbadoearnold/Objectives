@@ -23,3 +23,9 @@ Ce serait fantastique pour les gens en Afrique de l’Ouest d’être impliqués
 
 Un conférencier donnera soit une présentation de 20 minutes de 40 minutes sur la façon dont ils utilisent R dans leur travail.  
 Les présentations peuvent être présentées en direct ou préenregistrées.
+
+
+## Quels systèmes utilisons-nous?
+
+* Actuellement, le plan organisationnel est que les discussions seront présentées lors d’un webinaire zoom. 
+* Les présentations peuvent être enregistrées avant la conférence à l’aide de l’OBS Studio
